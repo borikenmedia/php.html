@@ -8,8 +8,8 @@ header("Content-type: text/html; Charset: utf-8856; Pragma: no-cache;");
 
 include("config.php");
 
-include("libraries/html.php");
-include("libraries/func.php");
+include("librarie/html.php");
+include("librarie/func.php");
 
 $_ssid = sortstring();
 /* Information Serialization _Helper Method */
