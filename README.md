@@ -1,7 +1,7 @@
 # php.html
-PHP _Helper Librarie For Basic Html Coding
-This PHP _Helper Librarie Allows The user To better Understand The Front-end and Back-end Coding Technologies.
+PHP _Helper Librarie For Basic Html Coding\n
+This PHP _Helper Librarie Allows The user To better Understand The Front-end and Back-end Coding Technologies.\n
 This Code is a Raw Librarie Writen In PHP 8 and Under Apache2 to better allow the developer to saparate the _html code from the Css Style Code and _Php Server Machine Code.
-[Small Discusion]
-The script is writen in PHP8 and allows to create a html document under a Web server (Local) by creating a small-footprint method with less or none arguments to change its appereance or translated content. Some of the perks offered by this type of software implementation is the capacity to eregi_the needed implementation of the overall software parts like enclosures, character (types), and ordering (Sort).
-Various of the know software implementations of web reproduction utilizes a similar approach with the diferent variety of sofware content-management-systems, design-patterns (mvc) and haystack-stand-alone minimalist software.
+\n[Small Discusion]\n
+The script is writen in PHP8 and allows to create a html document under a Web server (Local) by creating a small-footprint method with less or none arguments to change its appereance or translated content. Some of the perks offered by this type of software implementation is the capacity to eregi_the needed implementation of the overall software parts like enclosures, character (types), and ordering (Sort).\n
+Various of the know software implementations of web reproduction utilizes a similar approach with the diferent variety of sofware content-management-systems, design-patterns (mvc) and haystack-stand-alone minimalist software.\n
