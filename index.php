@@ -2,7 +2,7 @@
 session_start();
 error_reporting(E_PARSE|E_ERROR|E_NOTICE|E_WARNING);
 date_default_timezone_set("America/Puerto_Rico");
-header("Content-type: text/html; Charset: utf-8856; Pragma: no-cache;");
+header("Content-type: text/html; Charset: utf-8; Pragma: no-cache;");
 
 /* Minthread CMS v2 Release Under LGPL3 By dyewilliam */
 
